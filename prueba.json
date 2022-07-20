@@ -1,0 +1,22 @@
+{
+    "data": [
+    {
+        "name": "Metricas de prueba",
+        "description": "Esto es una metrica de prueba",
+        "tags": ["amnesty-campaing-2", "amnesty-campaing-9"],
+        "total_sent": 742,
+        "total_delivered": 725,
+        "total_bounced": 17,
+        "total_clicked": 12,
+	    "total_opened": 145,
+        "total_clicks": 14,
+	    "total_opens": 197,
+	    "percentage_delivered": 98,
+	    "percentage_bounced": 2,
+	    "percentage_clicked": 2,
+	    "percentage_opened": 20,
+	    "refreshed_at": "14/07/2022 20:20:06"
+    }
+       
+    ]
+}
